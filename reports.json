@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "type": "lost",
+    "category": "Bottle",
+    "colour": "Black",
+    "location": "Fisher Library",
+    "description": "black metal water bottle koala sticker with dent",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "type": "found",
+    "category": "Bottle",
+    "colour": "black",
+    "location": "FISHER   LIBRARY",
+    "description": "black metal water bottle koala sticker",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "type": "found",
+    "category": "Bottle",
+    "colour": "Blue",
+    "location": "Fisher Library",
+    "description": "blue reusable water bottle with flip lid",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "type": "lost",
+    "category": "Keys",
+    "colour": "Silver",
+    "location": "ABS Building",
+    "description": "silver keyring with star charm",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "type": "found",
+    "category": "Wallet",
+    "colour": "Black",
+    "location": "Fisher Library",
+    "description": "black leather wallet with student card",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "type": "found",
+    "category": "Keys",
+    "colour": "silver",
+    "location": "ABS Building",
+    "description": "silver keyring with a star charm",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "type": "lost",
+    "category": "Bag",
+    "colour": "Black",
+    "location": "Fisher Library",
+    "description": "Black backpack with a silver zip",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "type": "found",
+    "category": "Bag",
+    "colour": "Black",
+    "location": "Fisher Library",
+    "description": "Black backpack with a silver zip",
+    "status": "resolved"
+  }
+]
